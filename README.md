@@ -5,13 +5,13 @@ An interactive, three-page Power BI report exploring insurance claim costs, frau
 ## Dashboard Preview
 
 ### 1. Insurance Claims Overview
-![Insurance Claims Overview](screenshots/page-1.png)
+![Insurance Claims Overview](page-1.png)
 
 ### 2. Fraud Analysis & Risk Assessment
-![Fraud Analysis](screenshots/page-2.png)
+![Fraud Analysis](page-2.png)
 
 ### 3. Customer & Vehicle Claim Analysis
-![Customer and Vehicle Analysis](screenshots/page-3.png)
+![Customer and Vehicle Analysis](page-3.png)
 
 ## Project Overview
 
